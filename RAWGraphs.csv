@@ -1,0 +1,16 @@
+sector,asset,allocation
+Equities,US Large Cap,22.5
+Equities,US Small Cap,6.0
+Equities,Emerging Markets,8.5
+Fixed Income,US Treasury,18.0
+Fixed Income,Investment Grade,10.0
+Fixed Income,High Yield,4.0
+Alternatives,Private Equity,7.5
+Alternatives,Hedge Funds,4.0
+Commodities,Gold,3.0
+Commodities,Oil,2.5
+Real Assets,REITs,6.0
+Real Assets,Infrastructure,3.0
+Cash,Money Market,3.5
+Crypto,Crypto Basket,0.5
+Diversifiers,Risk Parity,1.0
